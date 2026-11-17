@@ -17,6 +17,10 @@ Call recording → AssemblyAI transcription → AI dialogue and sentiment analys
 - Store structured results for review.
 - Present call-category statistics through an AI assistant.
 
+## Workflow
+
+[![n8n workflow](workflow.png)](workflow.png)
+
 ## Results
 
 - **Automatic call processing:** recordings are transcribed, categorized and analyzed for customer sentiment.
@@ -39,3 +43,4 @@ n8n, AssemblyAI API, OpenAI / OpenRouter API, Google Sheets, n8n Data Tables, pr
 **Pavlo Holnyk — AI Automation & AI Agents**
 
 [Portfolio](https://tangy-whitefish-6d0.notion.site/408c12839d06816f9e61ff1aa7392587) · [LinkedIn](https://www.linkedin.com/in/pavlo-holnyk/) · [Upwork](https://www.upwork.com/freelancers/~011ee82fd5725aa92e)
+
